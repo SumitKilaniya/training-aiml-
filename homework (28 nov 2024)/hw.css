@@ -1,0 +1,88 @@
+ 
+ .box{
+    width: 100px;
+    height: 100px;
+
+}
+.container{
+background-color:white;
+position: relative;
+width: 1200px;
+height:800px;
+
+}
+#one{
+    background-color: red;
+    width: 380px;
+    height: 220px;
+
+}
+#two{
+    background-color: green;
+    position: absolute;
+    width: 380px;
+    height: 220px;
+    left: 68%;
+    bottom: 72%;
+    
+}
+#three{
+    background-color: yellow;
+    position: absolute;
+    width: 380px;
+    height: 220px;
+    left: 68%;
+    top: 72%;
+}
+#four{
+    background-color: blue;
+    position: absolute;
+    width: 380px;
+    height: 220px;
+    top: 72%;
+}
+ #o{
+    position: absolute;
+    width: 520px;
+    height: 194px;
+    top:0px;
+    left:28%;
+    background-color:white;
+   
+}
+#t{
+    position: absolute;
+    width: 528px;
+    height: 200px;
+    left:28%;
+    background-color:white;
+    bottom: 0px;
+    top:75%;
+   
+}
+#v{
+    position: absolute;
+    width: 330px;
+    height:400px;
+    top: 24%;
+    background-color: white;
+   
+}
+#r{
+    position: absolute;
+    width: 340px;
+    height:400px;
+    background-color: white;
+    left: 72%;
+    top:24% ;
+}
+    
+#f{
+    position: absolute;
+    left: 48%;
+    top: 47%;
+    height: 22px;
+    width: 45px;
+    background-color: rgb(243, 27, 218);
+   
+}
